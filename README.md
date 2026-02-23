@@ -1,7 +1,7 @@
 # 📊 Hidden Markov Model (HMM) Visualizer using Baum-Welch Algorithm
 
-**Name:** SHAZIA  
-**Registration Number:** TCR24CS060  
+**Name:** Asni K 
+**Registration Number:** TCR24CS016
 **Course:** B.Tech CSE  
 **Assignment:** Implementation of Hidden Markov Model (HMM) using Baum-Welch Algorithm with Visualization  
 
